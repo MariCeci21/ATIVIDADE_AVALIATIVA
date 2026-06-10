@@ -1,0 +1,1 @@
+from controllers.figurinhas_controller import figurinhas_blueprint
